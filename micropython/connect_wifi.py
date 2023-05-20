@@ -15,3 +15,4 @@ def connect():
 
     print("koneksi WIFI terhubung")
     print(station.ifconfig())
+    print("coba")
